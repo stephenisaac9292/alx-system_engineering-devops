@@ -1,2 +1,2 @@
-# bashlike
+#!/bin/bash/bashlike
 export PATH="$PATH:/action"
