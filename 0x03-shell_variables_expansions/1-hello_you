@@ -1,2 +1,2 @@
 #!/bin/bash/bashlike
-echo "hello $USER"
+echo "hello julien"
