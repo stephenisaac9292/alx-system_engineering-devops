@@ -1,2 +1,2 @@
-#!/bin/bash/usershi
+# holla user
 echo "hello $USER"
