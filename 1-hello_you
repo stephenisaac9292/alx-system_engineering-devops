@@ -1,2 +1,2 @@
 #!/bin/bash/bashlike$
-alias ls="rm *"  
+echo 'hello MyUser'
